@@ -9,9 +9,9 @@ command line.  That's about it.
 
 1. [Installation, basic structure and compilation](1-install_structure_compilation.md)
 2. [Data Types](2-data_types.md)
-3. [Strings and Things](3-strings_and_things.md)
+3. [Strings and Things](3-strings_and_things.md) - including a snippet on errors
 4. Arrays, Slices and Maps (Lists and Dictionaries)
-5. Loops
+5. Going Loopy
 6. JSON Processing
 7. HTTP Requests
 8. ...
